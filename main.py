@@ -9,7 +9,7 @@ from aiogram.types import ContentType
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = '5302213137:AAF3FOkvfBrak7C6LfN5dvNk-burSK4XXdA' 
+BOT_TOKEN = '...' 
 
 bot = Bot(token=BOT_TOKEN)
 storage = MemoryStorage()
